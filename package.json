@@ -2,6 +2,10 @@
   "name": "agnes",
   "displayName": "ragnarok",
   "description": "Ragnarok is a clean and modern theme for Visual Studio Code, designed to enhance  readability and reduce eye strain during long coding sessions. Perfect for developers seeking  a stylish and focused workspace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremiagarciad/theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
